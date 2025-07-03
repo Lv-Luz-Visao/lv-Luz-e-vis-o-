@@ -1,0 +1,44 @@
+```html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lv – Luz e Visão</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Lv – Luz e Visão</h1>
+    <p>Comércio & Prestação de Serviços</p>
+  </header>
+
+  <section class="sobre">
+    <h2>Sobre Nós</h2>
+    <p>Fundada a 17 de Agosto de 2021, a Lv – Luz e Visão atua nas áreas de comércio e prestação de serviços. Trabalhamos com roupas, calçados, mobiliário, gráfica, estética e aplicação de papel vinil e ripado.</p>
+  </section>
+
+  <section class="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>Gráfica & Impressão</li>
+      <li>Estética</li>
+      <li>Aplicação de Papel Vinil & Ripado</li>
+    </ul>
+  </section>
+
+  <section class="produtos">
+    <h2>Comércio</h2>
+    <ul>
+      <li>Roupas</li>
+      <li>Calçados</li>
+      <li>Mobiliário</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>📍 Namibe – Escola Maria de Lourdes | 📞 943 505 599 / 928 555 393</p><a href="https://wa.me/244974112846">Fale Connosco no WhatsApp</a>
+  </footer>
+</body>
+</html>
+```
